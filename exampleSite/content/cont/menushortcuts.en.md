@@ -25,7 +25,7 @@ Example from the current website:
 
     [[menu.shortcuts]]
     name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
+    identifier = "vote"
     url = "https://gohugo.io/"
     weight = 20
 
